@@ -142,6 +142,7 @@ docker run -d -p 80:3000 bkimminich/juice-shop
 
 ### Azure Container Instance
 
+
 1. Open and login (via `az login`) to your
    [Azure CLI](https://azure.github.io/projects/clis/) **or** login to the [Azure Portal](https://portal.azure.com),
    open the _CloudShell_
